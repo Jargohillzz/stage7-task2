@@ -40,13 +40,12 @@ h2 {
 
 .nav-tabs .nav-link {
   font-weight: 600;
-  color: #121c33;
-  opacity: 60%;
+  color: rgba(18, 28, 51, 0.6);
 }
 
 .nav-tabs .nav-link.active {
   font-weight: 700;
-  opacity: 100%;
+  color: rgba(18, 28, 51, 1);
 }
 
 #planet-img {
