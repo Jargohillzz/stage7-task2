@@ -45,7 +45,7 @@ h2 {
 
 .nav-tabs .nav-link.active {
   font-weight: 700;
-  color: rgba(18, 28, 51, 1);
+  color: rgb(18, 28, 51);
 }
 
 #planet-img {
